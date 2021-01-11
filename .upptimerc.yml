@@ -10,8 +10,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: technovangelist
+    url: https://technovangelist.com
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
