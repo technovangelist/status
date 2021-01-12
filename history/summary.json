@@ -95,18 +95,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "91.21%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.91%",
+    "uptimeDay": "85.59%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-11": 127
+      "2021-01-12": 72,
+      "2021-01-11": 135
     }
   }
 ]
