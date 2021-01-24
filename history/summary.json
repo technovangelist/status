@@ -58,9 +58,9 @@
     "url": "https://technovangelist.com",
     "icon": "https://favicons.githubusercontent.com/technovangelist.com",
     "slug": "technovangelist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 420,
     "timeMonth": 418,
     "timeYear": 418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-24": 0
+    }
   },
   {
     "name": "Test for HEAD",
@@ -95,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "92.70%",
+    "uptime": "92.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.04%",
-    "uptimeYear": "92.70%",
+    "uptimeMonth": "57.55%",
+    "uptimeYear": "92.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-24": 87,
+      "2021-01-24": 1178,
       "2021-01-23": 1440,
       "2021-01-22": 1440,
       "2021-01-21": 1440,
