@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 97,
-    "timeWeek": 107,
+    "timeDay": 131,
+    "timeWeek": 112,
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
@@ -33,10 +33,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 202,
-    "timeDay": 79,
-    "timeWeek": 67,
-    "timeMonth": 171,
-    "timeYear": 206,
+    "timeDay": 122,
+    "timeWeek": 79,
+    "timeMonth": 167,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2022-03-01": 32
     }
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 356,
-    "timeDay": 101,
-    "timeWeek": 136,
-    "timeMonth": 225,
-    "timeYear": 350,
+    "timeDay": 251,
+    "timeWeek": 161,
+    "timeMonth": 227,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2021-11-29": 42,
       "2021-11-05": 26,
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.80%",
-    "time": 463,
-    "timeDay": 217,
-    "timeWeek": 216,
-    "timeMonth": 262,
-    "timeYear": 469,
+    "time": 464,
+    "timeDay": 1086,
+    "timeWeek": 340,
+    "timeMonth": 292,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2022-03-02": 29,
       "2022-03-01": 23,
@@ -106,8 +106,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 27,
-    "timeWeek": 28,
+    "timeDay": 33,
+    "timeWeek": 29,
     "timeMonth": 23,
     "timeYear": 31,
     "dailyMinutesDown": {}
@@ -118,7 +118,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "26.74%",
+    "uptime": "26.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -129,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-11": 77,
+      "2022-03-12": 68,
+      "2022-03-11": 1440,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
@@ -492,8 +493,7 @@
       "2021-03-16": 1440,
       "2021-03-15": 1440,
       "2021-03-14": 1440,
-      "2021-03-13": 1440,
-      "2021-03-12": 1440
+      "2021-03-13": 1440
     }
   }
 ]
