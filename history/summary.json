@@ -68,9 +68,9 @@
     "url": "https://technovangelist.com",
     "icon": "https://favicons.githubusercontent.com/technovangelist.com",
     "slug": "technovangelist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.79%",
@@ -80,6 +80,7 @@
     "timeMonth": 370,
     "timeYear": 466,
     "dailyMinutesDown": {
+      "2022-04-11": 0,
       "2022-04-06": 40,
       "2022-03-02": 29,
       "2022-03-01": 23,
@@ -129,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-11": 87,
+      "2022-04-11": 358,
       "2022-04-10": 1440,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
