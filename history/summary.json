@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 100,
-    "timeDay": 91,
-    "timeWeek": 78,
+    "timeDay": 63,
+    "timeWeek": 79,
     "timeMonth": 80,
-    "timeYear": 108,
+    "timeYear": 107,
     "dailyMinutesDown": {
       "2021-12-14": 26,
       "2021-07-22": 22,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 199,
-    "timeDay": 128,
-    "timeWeek": 246,
-    "timeMonth": 218,
+    "time": 200,
+    "timeDay": 475,
+    "timeWeek": 277,
+    "timeMonth": 221,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2022-05-23": 16,
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 330,
-    "timeDay": 93,
-    "timeWeek": 280,
-    "timeMonth": 287,
-    "timeYear": 327,
+    "timeDay": 365,
+    "timeWeek": 272,
+    "timeMonth": 284,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2022-04-11": 31,
       "2021-11-29": 42,
@@ -77,8 +77,8 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.88%",
     "time": 458,
-    "timeDay": 366,
-    "timeWeek": 341,
+    "timeDay": 359,
+    "timeWeek": 342,
     "timeMonth": 425,
     "timeYear": 396,
     "dailyMinutesDown": {
@@ -109,7 +109,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 28,
-    "timeDay": 22,
+    "timeDay": 12,
     "timeWeek": 17,
     "timeMonth": 16,
     "timeYear": 32,
@@ -121,7 +121,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "23.03%",
+    "uptime": "22.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -132,7 +132,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-12": 117,
+      "2022-06-13": 117,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -495,8 +496,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   }
 ]
