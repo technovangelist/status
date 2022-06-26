@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 100,
-    "timeDay": 75,
-    "timeWeek": 98,
+    "timeDay": 77,
+    "timeWeek": 101,
     "timeMonth": 87,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 201,
-    "timeDay": 138,
-    "timeWeek": 232,
-    "timeMonth": 230,
-    "timeYear": 214,
+    "timeDay": 474,
+    "timeWeek": 231,
+    "timeMonth": 242,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2022-05-23": 16,
       "2022-03-01": 32
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 328,
-    "timeDay": 234,
-    "timeWeek": 265,
-    "timeMonth": 275,
+    "timeDay": 186,
+    "timeWeek": 234,
+    "timeMonth": 273,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2022-04-11": 31,
@@ -77,8 +77,8 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.88%",
     "time": 452,
-    "timeDay": 284,
-    "timeWeek": 393,
+    "timeDay": 287,
+    "timeWeek": 381,
     "timeMonth": 415,
     "timeYear": 400,
     "dailyMinutesDown": {
@@ -109,8 +109,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 28,
-    "timeDay": 18,
-    "timeWeek": 25,
+    "timeDay": 17,
+    "timeWeek": 26,
     "timeMonth": 19,
     "timeYear": 32,
     "dailyMinutesDown": {}
@@ -121,7 +121,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "22.59%",
+    "uptime": "22.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -132,7 +132,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-25": 116,
+      "2022-06-26": 121,
+      "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
@@ -495,8 +496,7 @@
       "2021-06-30": 1440,
       "2021-06-29": 1440,
       "2021-06-28": 1440,
-      "2021-06-27": 1440,
-      "2021-06-26": 1440
+      "2021-06-27": 1440
     }
   }
 ]
