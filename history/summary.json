@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 100,
-    "timeDay": 94,
-    "timeWeek": 107,
-    "timeMonth": 95,
-    "timeYear": 108,
+    "timeDay": 92,
+    "timeWeek": 111,
+    "timeMonth": 94,
+    "timeYear": 107,
     "dailyMinutesDown": {
       "2021-12-14": 26,
       "2021-07-22": 22
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 202,
-    "timeDay": 84,
-    "timeWeek": 194,
-    "timeMonth": 232,
-    "timeYear": 214,
+    "timeDay": 31,
+    "timeWeek": 165,
+    "timeMonth": 226,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2022-05-23": 16,
       "2022-03-01": 32
@@ -48,14 +48,14 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "65.28%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.04%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.88%",
-    "time": 322,
-    "timeDay": 282,
-    "timeWeek": 276,
-    "timeMonth": 262,
+    "time": 321,
+    "timeDay": 173,
+    "timeWeek": 248,
+    "timeMonth": 259,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2022-07-08": 500,
@@ -77,10 +77,10 @@
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.82%",
     "time": 484,
-    "timeDay": 293,
-    "timeWeek": 1157,
-    "timeMonth": 777,
-    "timeYear": 445,
+    "timeDay": 212,
+    "timeWeek": 1147,
+    "timeMonth": 773,
+    "timeYear": 444,
     "dailyMinutesDown": {
       "2022-07-06": 163,
       "2022-07-05": 80,
@@ -113,8 +113,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 28,
-    "timeDay": 17,
-    "timeWeek": 32,
+    "timeDay": 24,
+    "timeWeek": 33,
     "timeMonth": 24,
     "timeYear": 32,
     "dailyMinutesDown": {}
@@ -125,7 +125,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "22.14%",
+    "uptime": "22.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -136,7 +136,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-09": 109,
+      "2022-07-10": 125,
+      "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
@@ -499,8 +500,7 @@
       "2021-07-14": 1440,
       "2021-07-13": 1440,
       "2021-07-12": 1440,
-      "2021-07-11": 1440,
-      "2021-07-10": 1440
+      "2021-07-11": 1440
     }
   }
 ]
