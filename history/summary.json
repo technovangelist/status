@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 150,
-    "timeWeek": 131,
-    "timeMonth": 113,
+    "timeDay": 70,
+    "timeWeek": 129,
+    "timeMonth": 112,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2021-12-14": 26
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 207,
-    "timeDay": 114,
-    "timeWeek": 202,
-    "timeMonth": 201,
-    "timeYear": 212,
+    "time": 208,
+    "timeDay": 318,
+    "timeWeek": 227,
+    "timeMonth": 199,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2022-05-23": 16,
       "2022-03-01": 32
@@ -49,12 +49,12 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
     "time": 317,
-    "timeDay": 108,
-    "timeWeek": 300,
-    "timeMonth": 289,
+    "timeDay": 368,
+    "timeWeek": 305,
+    "timeMonth": 291,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2022-08-07": 16,
@@ -77,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.82%",
-    "time": 485,
-    "timeDay": 280,
-    "timeWeek": 332,
-    "timeMonth": 480,
-    "timeYear": 463,
+    "time": 486,
+    "timeDay": 806,
+    "timeWeek": 407,
+    "timeMonth": 458,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2022-07-25": 43,
       "2022-07-16": 35,
@@ -114,8 +114,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 29,
-    "timeDay": 19,
-    "timeWeek": 25,
+    "timeDay": 9,
+    "timeWeek": 24,
     "timeMonth": 24,
     "timeYear": 32,
     "dailyMinutesDown": {}
@@ -126,7 +126,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "20.96%",
+    "uptime": "20.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -137,7 +137,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-17": 131,
+      "2022-08-18": 130,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -500,8 +501,7 @@
       "2021-08-22": 1440,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
-      "2021-08-19": 1440,
-      "2021-08-18": 1440
+      "2021-08-19": 1440
     }
   }
 ]
