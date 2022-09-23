@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 165,
-    "timeWeek": 106,
+    "timeDay": 96,
+    "timeWeek": 107,
     "timeMonth": 125,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 132,
-    "timeWeek": 133,
-    "timeMonth": 165,
+    "timeDay": 65,
+    "timeWeek": 132,
+    "timeMonth": 160,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2022-05-23": 16,
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 313,
-    "timeDay": 278,
-    "timeWeek": 226,
+    "timeDay": 274,
+    "timeWeek": 249,
     "timeMonth": 233,
     "timeYear": 318,
     "dailyMinutesDown": {
@@ -77,10 +77,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 472,
-    "timeDay": 332,
-    "timeWeek": 340,
-    "timeMonth": 439,
+    "time": 473,
+    "timeDay": 346,
+    "timeWeek": 343,
+    "timeMonth": 441,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2022-07-25": 43,
@@ -114,7 +114,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 64,
+    "timeDay": 19,
     "timeWeek": 31,
     "timeMonth": 36,
     "timeYear": 30,
@@ -126,7 +126,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "19.99%",
+    "uptime": "19.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -137,7 +137,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-22": 139,
+      "2022-09-23": 143,
+      "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
@@ -500,8 +501,7 @@
       "2021-09-27": 1440,
       "2021-09-26": 1440,
       "2021-09-25": 1440,
-      "2021-09-24": 1440,
-      "2021-09-23": 1440
+      "2021-09-24": 1440
     }
   }
 ]
