@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 62,
-    "timeWeek": 80,
+    "timeDay": 81,
+    "timeWeek": 79,
     "timeMonth": 110,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 214,
-    "timeDay": 180,
-    "timeWeek": 389,
-    "timeMonth": 272,
+    "time": 215,
+    "timeDay": 797,
+    "timeWeek": 412,
+    "timeMonth": 295,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2022-05-23": 16,
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 315,
-    "timeDay": 436,
+    "timeDay": 427,
     "timeWeek": 297,
-    "timeMonth": 309,
-    "timeYear": 316,
+    "timeMonth": 320,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2022-08-07": 16,
       "2022-07-17": 18,
@@ -78,9 +78,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
     "time": 429,
-    "timeDay": 1571,
-    "timeWeek": 707,
-    "timeMonth": 520,
+    "timeDay": 416,
+    "timeWeek": 625,
+    "timeMonth": 523,
     "timeYear": 492,
     "dailyMinutesDown": {
       "2022-10-20": 35,
@@ -117,8 +117,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 12,
-    "timeWeek": 17,
+    "timeDay": 16,
+    "timeWeek": 18,
     "timeMonth": 28,
     "timeYear": 29,
     "dailyMinutesDown": {}
@@ -129,7 +129,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "19.17%",
+    "uptime": "19.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -140,7 +140,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-25": 147,
+      "2022-10-26": 122,
+      "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
@@ -503,8 +504,7 @@
       "2021-10-30": 1440,
       "2021-10-29": 1440,
       "2021-10-28": 1440,
-      "2021-10-27": 1440,
-      "2021-10-26": 1440
+      "2021-10-27": 1440
     }
   }
 ]
