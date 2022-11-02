@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 79,
-    "timeWeek": 76,
-    "timeMonth": 109,
-    "timeYear": 108,
+    "timeDay": 83,
+    "timeWeek": 77,
+    "timeMonth": 105,
+    "timeYear": 107,
     "dailyMinutesDown": {
       "2021-12-14": 26
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 322,
-    "timeWeek": 341,
-    "timeMonth": 278,
-    "timeYear": 207,
+    "timeDay": 326,
+    "timeWeek": 274,
+    "timeMonth": 284,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2022-05-23": 16,
       "2022-03-01": 32
@@ -47,14 +47,14 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "97.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.87%",
     "time": 315,
-    "timeDay": 248,
-    "timeWeek": 320,
-    "timeMonth": 315,
+    "timeDay": 422,
+    "timeWeek": 319,
+    "timeMonth": 319,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2022-10-31": 31,
@@ -78,10 +78,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 434,
-    "timeDay": 372,
-    "timeWeek": 583,
-    "timeMonth": 520,
+    "time": 433,
+    "timeDay": 392,
+    "timeWeek": 579,
+    "timeMonth": 521,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2022-10-20": 35,
@@ -118,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 15,
+    "timeDay": 14,
     "timeWeek": 16,
-    "timeMonth": 27,
+    "timeMonth": 25,
     "timeYear": 29,
     "dailyMinutesDown": {}
   },
@@ -130,7 +130,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "19.00%",
+    "uptime": "18.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -141,7 +141,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-01": 141,
+      "2022-11-02": 128,
+      "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
@@ -504,8 +505,7 @@
       "2021-11-06": 1440,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
-      "2021-11-03": 1440,
-      "2021-11-02": 1440
+      "2021-11-03": 1440
     }
   }
 ]
