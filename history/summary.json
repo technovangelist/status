@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 85,
-    "timeWeek": 119,
-    "timeMonth": 112,
+    "timeDay": 169,
+    "timeWeek": 133,
+    "timeMonth": 115,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2021-12-14": 26
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 367,
-    "timeWeek": 285,
-    "timeMonth": 290,
-    "timeYear": 208,
+    "timeDay": 102,
+    "timeWeek": 256,
+    "timeMonth": 287,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2022-05-23": 16,
       "2022-03-01": 32
@@ -51,10 +51,10 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.87%",
-    "time": 315,
-    "timeDay": 252,
-    "timeWeek": 299,
-    "timeMonth": 319,
+    "time": 316,
+    "timeDay": 444,
+    "timeWeek": 300,
+    "timeMonth": 320,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2022-10-31": 31,
@@ -62,8 +62,7 @@
       "2022-07-17": 18,
       "2022-07-08": 500,
       "2022-04-11": 31,
-      "2021-11-29": 42,
-      "2021-11-05": 26
+      "2021-11-29": 42
     }
   },
   {
@@ -73,17 +72,16 @@
     "slug": "technovangelist",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.81%",
     "time": 434,
-    "timeDay": 381,
-    "timeWeek": 403,
-    "timeMonth": 525,
+    "timeDay": 396,
+    "timeWeek": 401,
+    "timeMonth": 508,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2022-11-04": 13,
       "2022-10-20": 35,
       "2022-10-09": 25,
       "2022-10-04": 22,
@@ -118,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 16,
-    "timeWeek": 24,
-    "timeMonth": 26,
+    "timeDay": 72,
+    "timeWeek": 32,
+    "timeMonth": 27,
     "timeYear": 28,
     "dailyMinutesDown": {}
   },
@@ -141,7 +139,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-04": 1258,
+      "2022-11-05": 113,
+      "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
@@ -504,8 +503,7 @@
       "2021-11-09": 1440,
       "2021-11-08": 1440,
       "2021-11-07": 1440,
-      "2021-11-06": 1440,
-      "2021-11-05": 1440
+      "2021-11-06": 1440
     }
   }
 ]
