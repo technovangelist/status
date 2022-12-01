@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 74,
-    "timeWeek": 92,
-    "timeMonth": 115,
+    "timeDay": 72,
+    "timeWeek": 91,
+    "timeMonth": 117,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2021-12-14": 26
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 226,
-    "timeWeek": 180,
-    "timeMonth": 196,
+    "timeDay": 177,
+    "timeWeek": 145,
+    "timeMonth": 188,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2022-05-23": 16,
@@ -49,12 +49,12 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 320,
-    "timeDay": 423,
-    "timeWeek": 339,
-    "timeMonth": 354,
+    "time": 321,
+    "timeDay": 445,
+    "timeWeek": 338,
+    "timeMonth": 366,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2022-10-31": 31,
@@ -76,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 446,
-    "timeDay": 1393,
-    "timeWeek": 718,
-    "timeMonth": 471,
+    "timeDay": 381,
+    "timeWeek": 701,
+    "timeMonth": 475,
     "timeYear": 507,
     "dailyMinutesDown": {
       "2022-10-20": 35,
@@ -115,10 +115,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 17,
+    "timeDay": 15,
     "timeWeek": 35,
-    "timeMonth": 31,
-    "timeYear": 26,
+    "timeMonth": 32,
+    "timeYear": 25,
     "dailyMinutesDown": {}
   },
   {
@@ -127,10 +127,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "18.35%",
+    "uptime": "18.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -138,7 +138,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 96,
+      "2022-12-01": 107,
+      "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -501,8 +502,7 @@
       "2021-12-05": 1440,
       "2021-12-04": 1440,
       "2021-12-03": 1440,
-      "2021-12-02": 1440,
-      "2021-12-01": 1440
+      "2021-12-02": 1440
     }
   }
 ]
